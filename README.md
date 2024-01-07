@@ -1,3 +1,6 @@
+# New fork for Ninebot G2
+I made this fork specifically for the Ninebot G2.
+
 #  Electric scooter motion control adaptation
 A small hardware and software modification to legalize electric  Segway-Ninebot ES/MAX/Xiaomi M365-series scooters in The Netherlands.
 
@@ -8,6 +11,7 @@ A small hardware and software modification to legalize electric  Segway-Ninebot 
 - Xiaomi Mi (M365) Pro 2
 - Segway-Ninebot Max
 - Segway-Ninebot ES
+- Segway-Ninebot G2
 
 # Disclaimer
 THIS SCRIPT, INSTRUCTIONS, INFORMATION AND OTHER SERVICES ARE PROVIDED BY THE DEVELOPER ON AN "AS IS" AND "AS AVAILABLE" BASIS, UNLESS OTHERWISE SPECIFIED IN WRITING. THE DEVELOPER DOES NOT MAKE ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THIS SCRIPT, INSTRUCTIONS, INFORMATION AND OTHER SERVICES. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SCRIPT IS AT YOUR OWN RISK. 
